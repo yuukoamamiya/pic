@@ -4167,13 +4167,6 @@
       "format": "png"
     },
     {
-      "path": "images.jpg",
-      "width": 600,
-      "height": 840,
-      "bytes": 56257,
-      "format": "jpeg"
-    },
-    {
       "path": "IMG_20191017_183450(1).jpg",
       "width": 4048,
       "height": 3036,
@@ -4221,6 +4214,13 @@
       "height": 884,
       "bytes": 294500,
       "format": "png"
+    },
+    {
+      "path": "images.jpg",
+      "width": 600,
+      "height": 840,
+      "bytes": 56257,
+      "format": "jpeg"
     }
   ]
 }
